@@ -1,0 +1,4 @@
+bin/
+Makefile
+config.make
+*.qbs
